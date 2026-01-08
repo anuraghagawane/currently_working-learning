@@ -6,3 +6,6 @@ What Every Programmer Should Know About Memory => https://docs.google.com/spread
 Striver SDE sheet revision => https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems => done till 4 sum
 <br>
 Neetcode 150 => https://neetcode.io/practice/practice/neetcode150
+<br>
+<br>
+Crafting interpreter => https://craftinginterpreters.com/the-lox-language.html#hello-lox
