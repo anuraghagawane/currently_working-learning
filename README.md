@@ -8,4 +8,4 @@ Striver SDE sheet revision => https://takeuforward.org/dsa/strivers-sde-sheet-to
 Neetcode 150 => https://neetcode.io/practice/practice/neetcode150
 <br>
 <br>
-Crafting interpreter => https://craftinginterpreters.com/the-lox-language.html#hello-lox
+Crafting interpreter => https://craftinginterpreters.com/scanning.html
