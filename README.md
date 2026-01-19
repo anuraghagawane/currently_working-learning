@@ -9,3 +9,5 @@ Neetcode 150 => https://neetcode.io/practice/practice/neetcode150
 <br>
 <br>
 Crafting interpreter => https://craftinginterpreters.com/scanning.html
+<br>
+Practical Deep Learning => https://course.fast.ai/Lessons/lesson2.html
